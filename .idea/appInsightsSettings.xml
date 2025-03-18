@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.l4kt.kofe" />
+                  <option name="mobileSdkAppId" value="1:197367067877:android:21e66f73f7f9366287100c" />
+                  <option name="projectId" value="kofe-ecf74" />
+                  <option name="projectNumber" value="197367067877" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

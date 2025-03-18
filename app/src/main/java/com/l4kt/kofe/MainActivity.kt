@@ -45,3 +45,33 @@ fun GreetingPreview() {
         Greeting("Android")
     }
 }
+
+/**
+package com.l4kt.kofe
+
+import android.os.Bundle
+import androidx.activity.ComponentActivity
+import androidx.activity.compose.setContent
+import androidx.activity.enableEdgeToEdge
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.material3.Surface
+import androidx.compose.ui.Modifier
+import androidx.navigation.compose.rememberNavController
+import com.l4kt.kofe.navigation.NavGraph
+import com.l4kt.kofe.ui.theme.KofeTheme
+
+class MainActivity : ComponentActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        enableEdgeToEdge()
+        setContent {
+            KofeTheme {
+                Surface(modifier = Modifier.fillMaxSize()) {
+                    val navController = rememberNavController()
+                    NavGraph(navController = navController)
+                }
+            }
+        }
+    }
+}
+ */

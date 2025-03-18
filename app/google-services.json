@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "197367067877",
+    "project_id": "kofe-ecf74",
+    "storage_bucket": "kofe-ecf74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197367067877:android:21e66f73f7f9366287100c",
+        "android_client_info": {
+          "package_name": "com.l4kt.kofe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197367067877-mm52tn01u9gscl8mis7g3ce0lt3uscm9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.l4kt.kofe",
+            "certificate_hash": "069f61c18a5f7d73cd4468060fdc19183e7754de"
+          }
+        },
+        {
+          "client_id": "197367067877-d9nqkq2riko61svt90dmf5p5ph1g71p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqdMlapt4MarcG-VTAsHuILfR9SK5-7oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197367067877-d9nqkq2riko61svt90dmf5p5ph1g71p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
